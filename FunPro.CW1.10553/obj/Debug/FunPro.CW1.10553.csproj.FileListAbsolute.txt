@@ -1,0 +1,40 @@
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1.10553.csprojAssemblyReference.cache
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1._10553.Properties.Resources.resources
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1.10553.csproj.GenerateResource.cache
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1.10553.csproj.CoreCompileInputs.cache
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\FunPro.CW1.10553.exe.config
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\FunPro.CW1.10553.exe
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\FunPro.CW1.10553.pdb
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1._10553.ParentForm.resources
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1.10553.exe
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1.10553.pdb
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1._10553.AllApplicants.resources
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\FunPro.CW1.10553.DAL.dll
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\FunPro.CW1.10553.DAL.pdb
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\FunPro.CW1.10553.DAL.dll.config
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1.10553.csproj.CopyComplete
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1._10553.ApplicantEdit.resources
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\RightJob.sdf
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1._10553.AllTests.resources
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1._10553.TestEdit.resources
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\RightJob.sdf
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\FunPro.CW1.10553.exe.config
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\FunPro.CW1.10553.exe
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\FunPro.CW1.10553.pdb
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\FunPro.CW1.10553.DAL.dll
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\FunPro.CW1.10553.DAL.pdb
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\bin\Debug\FunPro.CW1.10553.DAL.dll.config
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1.10553.csprojAssemblyReference.cache
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1._10553.AllApplicants.resources
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1._10553.AllTests.resources
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1._10553.ApplicantEdit.resources
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1._10553.ParentForm.resources
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1._10553.Properties.Resources.resources
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1._10553.TestEdit.resources
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1.10553.csproj.GenerateResource.cache
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1.10553.csproj.CoreCompileInputs.cache
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1.10553.csproj.CopyComplete
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1.10553.exe
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553\obj\Debug\FunPro.CW1.10553.pdb

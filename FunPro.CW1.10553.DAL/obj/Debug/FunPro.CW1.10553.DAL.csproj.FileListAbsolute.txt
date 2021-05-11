@@ -1,0 +1,16 @@
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553.DAL\obj\Debug\FunPro.CW1.10553.DAL.csprojAssemblyReference.cache
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553.DAL\obj\Debug\FunPro.CW1.10553.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553.DAL\bin\Debug\FunPro.CW1.10553.DAL.dll.config
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553.DAL\bin\Debug\FunPro.CW1.10553.DAL.dll
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553.DAL\bin\Debug\FunPro.CW1.10553.DAL.pdb
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553.DAL\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553.DAL\obj\Debug\FunPro.CW1.10553.DAL.csproj.CopyComplete
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553.DAL\obj\Debug\FunPro.CW1.10553.DAL.dll
+C:\Users\Akbarjon\Desktop\bob\new\FunPro.CW1.10553\FunPro.CW1.10553.DAL\obj\Debug\FunPro.CW1.10553.DAL.pdb
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553.DAL\bin\Debug\FunPro.CW1.10553.DAL.dll.config
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553.DAL\bin\Debug\FunPro.CW1.10553.DAL.dll
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553.DAL\bin\Debug\FunPro.CW1.10553.DAL.pdb
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553.DAL\obj\Debug\FunPro.CW1.10553.DAL.csprojAssemblyReference.cache
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553.DAL\obj\Debug\FunPro.CW1.10553.DAL.csproj.CoreCompileInputs.cache
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553.DAL\obj\Debug\FunPro.CW1.10553.DAL.dll
+C:\Users\bobur\OneDrive\Рабочий стол\FunPro.CW1.10553\FunPro.CW1.10553.DAL\obj\Debug\FunPro.CW1.10553.DAL.pdb
